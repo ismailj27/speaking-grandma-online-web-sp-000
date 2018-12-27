@@ -1,5 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma (phrase)
+  var Cphrase
   phrase.upcase = Cphrase
   if phrase =! Cphrase
     puts "HUH?! SPEAK UP, SONNY!"
